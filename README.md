@@ -1,3 +1,3 @@
 # beauty
 This is my first app
-ezedin
+ezedin and zulikha 
